@@ -1,19 +1,35 @@
 # tweetsentiment Analysis
-# By Yashvini Shukla
+## Understanding the proxies of mental health in London via tweets. 
+### By Yashvini Shukla
 
-Running code
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
+
+### General Info
 ***
-https://www.ionos.com/digitalguide/websites/web-development/readme-file/
+Can sentiment changes in time/ space in different cities round the world be correlated with external events, eg. wildfires, covid, and disastrous events?
 
-**Using R**
-**Framework**
-
-A general description of the system or project
-The project status is important if the project is still in development. Use the file to mention planned changes and the development direction or indicate the completion date of the project.
-The requirements on the development environment for integration
-A guide to installation and use
-A list of technology used and any links to further information related to this technology
-Open-source projects that the developers independently modify or expand should be contained in a section on “desired collaboration” in the readme.md file. How should problems be handled? How should developers advance the changes?
-Known bugs and any bug fixes
-FAQ section with all previously asked questions
-Copyright and licensing information
+### Screenshot
+![Image text](https://cdn.britannica.com/28/148328-050-961326DE/eye-structure-tarsier-light-levels-animal.jpg)
+## Technologies
+***
+A list of technologies used within the project:
+* [Technology name](https://example.com): Version 12.3 
+* [Technology name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
+## Installation
+***
+A little intro about the installation. 
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+```
+| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+|:--------------|:-------------:|--------------:|
+| text-align left | text-align center | text-align right |
